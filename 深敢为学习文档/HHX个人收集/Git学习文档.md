@@ -16,7 +16,7 @@
 
 • 有能力高效管理类似 Linux 内核一样的超大规模项目（速度和数据量）
 
-![]('./Photo/Photo/tupian1.png')
+![]('./Photo/tupian1.png')
 
 #2、Git与svn对比
 
@@ -26,7 +26,7 @@
 
 下图就是标准的集中式版本控制工具管理方式：
 
-![]('./Photo/Photo/tupian.png')
+![]('./Photo/tupian.png')
 
 &emsp;&emsp;集中管理方式在一定程度上看到其他开发人员在干什么，而管理员也可以很轻松掌握每个人的开发权限。
 
@@ -44,7 +44,7 @@ SVN现在很多企业也在用。
 
 下图就是分布式版本控制工具管理方式：
 
-![]('./Photo/Photo/tupian3.png')
+![]('./Photo/tupian3.png')
 
 #3、Git工作流程
 一般工作流程如下：
@@ -61,7 +61,7 @@ SVN现在很多企业也在用。
 
 下图展示了 Git 的工作流程：
 
-![]('./Photo/Photo/tupian2.png')
+![]('./Photo/tupian2.png')
 
 #4、安装Git
 
